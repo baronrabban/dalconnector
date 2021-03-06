@@ -76,7 +76,7 @@ Download the latest version of the reposority
 
 3. Put the DALConnector folder in your Ableton "MIDI Remote Scripts" directory.  Ableton provides guidance:  [How to install a control surface script](https://help.ableton.com/hc/en-us/articles/209072009-Installing-third-party-remote-scripts)
 
-4. Edit the file config.py and update the WIFI_CARD_ADDRESS field with the address you figured out earlier in step 1
+4. Edit the file config.py and update the WIFI_CARD_ADDRESS field with the address you figured out earlier in step 1.  Enter just the address, such as "flashair" or "192.168.1.100"
 
 5. In Ableton, under Options -> Preferences -> Link/Tempo/Midi add a new control surface.  If DALConnector isn't in the list, something went wrong.
 
@@ -86,10 +86,10 @@ Download the latest version of the reposority
 <!-- Troubleshooting -->
 ### Troubleshooting
 
-**Log.txt file**
+**Log.txt file**:
 Live has a log.txt file which DAL Connector writes to.  Near the bottom of the page [Finding the log.txt file](https://help.ableton.com/hc/en-us/articles/209071629-Where-to-find-Crash-Reports) is a description of where to find the log.txt file
 
-**Flashair Card**
+**Flashair Card**:
 This is a great page for setting up a flashair card:  [Using a Toshiba Flashair SD card](https://mattshub.com/blogs/blog/flashair-sd-card)
 I run my card in "Station" mode but whatever works for you to connect to the card
 
@@ -119,7 +119,7 @@ I run my card in "Station" mode but whatever works for you to connect to the car
 
 **Q:** It's working but sometimes feels slow or it times out
 
- **A:** The wifi sdcard needs a good wifi signal.  Try moving it closer to the router.
+ **A:** The wifi sdcard needs a good signal.  Try moving it closer to the router.
 ##
 
 
