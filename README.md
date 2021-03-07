@@ -1,9 +1,3 @@
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![BSD-2-Clause License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -149,19 +143,4 @@ Distributed under the The 2-Clause BSD License. See `LICENSE` for more informati
 ## Acknowledgements
 * [Downrush](https://github.com/jamiefaye/downrush)  Credit to Downrush and Jamie Fenton for my understanding of notedata and decoding bpm
 
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/baronrabban/dalconnector.svg?style=for-the-badge
-[contributors-url]: https://github.com/baronrabban/dalconnector/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/baronrabban/dalconnector.svg?style=for-the-badge
-[forks-url]: https://github.com/baronrabban/dalconnector/network/members
-[stars-shield]: https://img.shields.io/github/stars/baronrabban/dalconnector.svg?style=for-the-badge
-[stars-url]: https://github.com/baronrabban/dalconnector/stargazers
-[issues-shield]: https://img.shields.io/github/issues/baronrabban/dalconnector.svg?style=for-the-badge
-[issues-url]: https://github.com/baronrabban/dalconnector/issues
-[license-shield]: https://img.shields.io/github/license/baronrabban/dalconnector.svg?style=for-the-badge
-[license-url]: https://github.com/baronrabban/dalconnector/blob/master/LICENSE.txt
 
