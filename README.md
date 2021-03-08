@@ -64,7 +64,7 @@ Download the latest version of the reposority
 
 ### Installation
 
-1. Ensure that you can connect to your flashair card in your browser.  You will need to know the address you're using to connect to it.  I.e., http://flashair/   or http://192.168.1.100
+1. Ensure that you can connect to your flashair card in your browser.  You will need to know the address you're using to connect to it.  I.e., http://flashaircard/   or http://192.168.1.100
 
 2. Download the latest release from [Releases](https://github.com/baronrabban/dalconnector/releases)
 
