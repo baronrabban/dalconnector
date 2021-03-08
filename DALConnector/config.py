@@ -3,7 +3,7 @@
 # You have a WiFi sdcard.  What is the address you use to connect to it
 # Make sure you can visit it in your web browser.  If you can load it in a web browser it's very likely it will work here.
 # Enter just the address part.  For instance, if you visit it via "http://flashair/" just enter "flashair" here:
-WIFI_CARD_ADDRESS = "192.168.1.100"  # an IP address or a hostname such as flashair
+WIFI_CARD_ADDRESS = "flashaircard"  # an IP address or a hostname such as flashair
 
 
 
