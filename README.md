@@ -70,7 +70,7 @@ Download the latest version of the reposority
 
 3. Put the DALConnector folder in your Ableton "MIDI Remote Scripts" directory.  Ableton provides guidance:  [How to install a control surface script](https://help.ableton.com/hc/en-us/articles/209072009-Installing-third-party-remote-scripts)
 
-4. Edit the file config.py and update the WIFI_CARD_ADDRESS field with the address you figured out earlier in step 1.  Enter just the address, such as "flashair" or "192.168.1.100"
+4. Edit the file config.py and update the WIFI_CARD_ADDRESS field with the address you figured out earlier in step 1.  Enter just the address, such as "flashaircard" or "192.168.1.100"
 
 5. In Ableton, under Options -> Preferences -> Link/Tempo/Midi add a new control surface.  If DALConnector isn't in the list, something went wrong.
 
